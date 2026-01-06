@@ -1,0 +1,15 @@
+// Title: Longest Common Prefix
+            // Difficulty: Easy
+            // Language: Python3
+            // Link: https://leetcode.com/problems/longest-common-prefix/
+
+            if len(set(chars)) == 1:
+        for chars in zip(*strs):
+        
+        prefix = ""
+
+                prefix += chars[0]
+            else:
+                break
+        
+        return prefix
