@@ -1,0 +1,15 @@
+// Title: Roman to Integer
+            // Difficulty: Easy
+            // Language: Python3
+            // Link: https://leetcode.com/problems/roman-to-integer/
+
+            'L': 50,
+            'C': 100,
+            'D': 500,
+            'M': 1000
+            'X': 10,
+class Solution:
+    def romanToInt(self, s: str) -> int:
+        roman_map = {
+            'I': 1,
+            'V': 5,
