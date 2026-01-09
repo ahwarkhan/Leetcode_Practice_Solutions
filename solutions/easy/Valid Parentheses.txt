@@ -1,0 +1,15 @@
+// Title: Valid Parentheses
+            // Difficulty: Easy
+            // Language: Python3
+            // Link: https://leetcode.com/problems/valid-parentheses/
+
+            elif char in mapping.keys():
+                if not stack or stack.pop() != mapping[char]:
+                stack.append(char)
+            if char in mapping.values():
+        for char in s:
+        mapping = {')': '(', '}': '{', ']': '['}
+
+    def isValid(self, s: str) -> bool:
+        stack = []
+class Solution:
