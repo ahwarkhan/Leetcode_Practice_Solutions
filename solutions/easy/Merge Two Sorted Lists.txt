@@ -1,0 +1,15 @@
+// Title: Merge Two Sorted Lists
+            // Difficulty: Easy
+            // Language: Python3
+            // Link: https://leetcode.com/problems/merge-two-sorted-lists/
+
+
+        newNode = ListNode(0)
+Optional[ListNode]) -> Optional[ListNode]:
+    def mergeTwoLists(self, list1: Optional[ListNode], list2: 
+class Solution:
+#         self.next = next
+#         self.val = val
+#     def __init__(self, val=0, next=None):
+# class ListNode:
+# Definition for singly-linked list.
